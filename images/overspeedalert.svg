@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0 0 92 92">
+  <defs>
+    <filter id="Rectangle_22111" x="0" y="0" width="92" height="92" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#0c2464" flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Vehicle_Over-speed_Alert" data-name="Vehicle Over-speed Alert" transform="translate(-249 -5935)">
+    <g transform="matrix(1, 0, 0, 1, 249, 5935)" filter="url(#Rectangle_22111)">
+      <rect id="Rectangle_22111-2" data-name="Rectangle 22111" width="56" height="56" rx="6" transform="translate(18 18)" fill="#fff"/>
+    </g>
+    <g id="Group_78110" data-name="Group 78110" transform="translate(252.488 5792.037)">
+      <path id="Path_129226" data-name="Path 129226" d="M59.261,203.072a1.105,1.105,0,0,1-.488-.114l-4.467-2.195a1.11,1.11,0,1,1,.978-1.992l3.445,1.692a17,17,0,0,0,1.323-6.622,17.159,17.159,0,1,0-34.318,0,16.989,16.989,0,0,0,1.309,6.588l3.094-1.643a1.11,1.11,0,1,1,1.041,1.961l-4.134,2.195a1.109,1.109,0,0,1-1.514-.486,19.184,19.184,0,0,1-2.015-8.614,19.379,19.379,0,1,1,38.758,0,19.175,19.175,0,0,1-2.015,8.614,1.11,1.11,0,0,1-.995.617Z" transform="translate(0)" fill="#ff6d24"/>
+      <path id="Path_129227" data-name="Path 129227" d="M198.787,332.076a14.46,14.46,0,0,0-28.582-1.887c-.02.094-.039.188-.057.283a1.172,1.172,0,0,0-.017.121,14.069,14.069,0,0,0-.19,2.313,16.806,16.806,0,0,0,.195,2.355,1.11,1.11,0,0,0,1.1.943,1.136,1.136,0,0,0,.167-.012,1.11,1.11,0,0,0,.931-1.264,14.7,14.7,0,0,1-.17-2.023,11.862,11.862,0,0,1,.221-2.281c1.329-6.228,6.674-8.447,10.9-8.447,5.043,0,8.526,4.292,9.359,8.532a1.111,1.111,0,0,0,.66.81l3.953,1.658a1.11,1.11,0,0,0,1.536-1.1Z" transform="translate(-141.506 -139.35)" fill="#ff6d24"/>
+      <path id="Path_129228" data-name="Path 129228" d="M574.418,640.785l-13.026-5.855a.619.619,0,0,0-.066-.026,2.159,2.159,0,0,0-1.708.13,1.861,1.861,0,0,0-.9,1.225,1.935,1.935,0,0,0,1.4,2.4l.047.013,13.847,3.3a.634.634,0,0,0,.747-.412.633.633,0,0,0-.34-.783Z" transform="translate(-517.151 -444.851)" fill="#1e5bfa"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0 0 92 92">
+  <defs>
+    <filter id="Rectangle_27311" x="0" y="0" width="92" height="92" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#0c2464" flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Tracking_History_of_3_months" data-name="Tracking History of 3 months" transform="translate(-260 -3301)">
+    <g transform="matrix(1, 0, 0, 1, 260, 3301)" filter="url(#Rectangle_27311)">
+      <rect id="Rectangle_27311-2" data-name="Rectangle 27311" width="56" height="56" rx="6" transform="translate(18 18)" fill="#fff"/>
+    </g>
+    <g id="Group_78101" data-name="Group 78101">
+      <path id="Path_129196" data-name="Path 129196" d="M72.236,3.391,70.14,13.56l10.169-2.1Zm.734,15.131H70a17.663,17.663,0,0,0,17.472,17.4,17.278,17.278,0,0,0,12.3-5.172A17.359,17.359,0,1,0,75.137,6.292L72.586,8.843l1.782,2.376L77.2,8.353A14.343,14.343,0,1,1,72.97,18.523Z" transform="translate(218.7 3328.38)" fill="#ff6d24" stroke="#ff6d24" stroke-width="0.5"/>
+      <path id="Path_129197" data-name="Path 129197" d="M88.683,9.337H85.472V20.749c-.077,1.625,0,1.625,1.625,1.625h9.168V19.163H88.684Z" transform="translate(218.655 3328.38)" fill="#1e5bfa" stroke="#1e5bfa" stroke-width="0.5"/>
+    </g>
+  </g>
+</svg>

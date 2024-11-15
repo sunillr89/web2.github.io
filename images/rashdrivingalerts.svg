@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0 0 92 92">
+  <defs>
+    <filter id="Rectangle_22110" x="0" y="0" width="92" height="92" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#0c2464" flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Ignition_Rash_Driving_Alerts" data-name="Ignition &amp; Rash Driving Alerts" transform="translate(-249 -5849)">
+    <g transform="matrix(1, 0, 0, 1, 249, 5849)" filter="url(#Rectangle_22110)">
+      <rect id="Rectangle_22110-2" data-name="Rectangle 22110" width="56" height="56" rx="6" transform="translate(18 18)" fill="#fff"/>
+    </g>
+    <g id="Group_78109" data-name="Group 78109" transform="translate(278 5878)">
+      <path id="Path_129220" data-name="Path 129220" d="M490.262,188.114a1.446,1.446,0,1,0,1.446-1.446,1.446,1.446,0,0,0-1.446,1.446" transform="translate(-484.479 -175.103)" fill="#1e5bfa" fill-rule="evenodd"/>
+      <path id="Path_129221" data-name="Path 129221" d="M355.383,104.288a1.287,1.287,0,0,0,0-1.82l-6.336-6.336a1.287,1.287,0,0,0-1.82,0l-6.314,6.314a1.287,1.287,0,0,0,0,1.82l6.336,6.336a1.287,1.287,0,0,0,1.82,0ZM345.2,112.646l-6.336-6.336a4.179,4.179,0,0,1,0-5.909l6.314-6.314a4.178,4.178,0,0,1,5.909,0l6.336,6.336a4.178,4.178,0,0,1,0,5.909l-6.314,6.314a4.178,4.178,0,0,1-5.909,0Z" transform="translate(-339.645 -88.987)" fill="#ff6d24" fill-rule="evenodd"/>
+      <path id="Path_129222" data-name="Path 129222" d="M168.581,263.615l8.63,8.631a5.986,5.986,0,0,0,3.06,1.639.529.529,0,0,0,.622-.622,5.993,5.993,0,0,0-1.639-3.06l-8.63-8.631Zm6.586,10.675-9.653-9.653a1.446,1.446,0,0,1,0-2.045L169.6,258.5a1.446,1.446,0,0,1,2.045,0l9.653,9.653a8.884,8.884,0,0,1,2.429,4.538,3.42,3.42,0,0,1-4.024,4.024A8.88,8.88,0,0,1,175.167,274.29Z" transform="translate(-154.977 -242.092)" fill="#ff6d24" fill-rule="evenodd"/>
+      <path id="Path_129223" data-name="Path 129223" d="M147.49,78.674a5.783,5.783,0,0,0-5.782-5.783,1.446,1.446,0,1,1,0-2.891,8.675,8.675,0,0,1,8.674,8.674,1.446,1.446,0,0,1-2.891,0Z" transform="translate(-120.023 -65.663)" fill="#1e5bfa" fill-rule="evenodd"/>
+      <path id="Path_129224" data-name="Path 129224" d="M213.153,144.337a1.445,1.445,0,0,0-1.446-1.446,1.446,1.446,0,1,1,0-2.891,4.336,4.336,0,0,1,4.337,4.337,1.446,1.446,0,0,1-2.891,0Z" transform="translate(-190.023 -131.326)" fill="#1e5bfa" fill-rule="evenodd"/>
+      <path id="Path_129225" data-name="Path 129225" d="M81.825,13.013A10.12,10.12,0,0,0,71.706,2.893a1.446,1.446,0,1,1,0-2.891A13.011,13.011,0,0,1,84.717,13.013a1.446,1.446,0,0,1-2.891,0Z" transform="translate(-50.021 -0.002)" fill="#1e5bfa" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

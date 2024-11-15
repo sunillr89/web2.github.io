@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0 0 92 92">
+  <defs>
+    <filter id="Rectangle_27884" x="0" y="0" width="92" height="92" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#0c2464" flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mark_Stoppage" data-name="Mark Stoppage" transform="translate(-896 -6561)">
+    <g transform="matrix(1, 0, 0, 1, 896, 6561)" filter="url(#Rectangle_27884)">
+      <rect id="Rectangle_27884-2" data-name="Rectangle 27884" width="56" height="56" rx="6" transform="translate(18 18)" fill="#fff"/>
+    </g>
+    <g id="Group_78117" data-name="Group 78117" transform="translate(-6.184 -5.089)">
+      <circle id="Ellipse_6644" data-name="Ellipse 6644" cx="16.086" cy="16.086" r="16.086" transform="translate(932.185 6596.089)" fill="#ff6d24"/>
+      <circle id="Ellipse_6645" data-name="Ellipse 6645" cx="10.492" cy="10.492" r="10.492" transform="translate(937.641 6601.668)" fill="#fff"/>
+      <rect id="Rectangle_27882" data-name="Rectangle 27882" width="12.394" height="5.357" transform="translate(941.934 6609.497)" fill="#1e5bfa"/>
+    </g>
+  </g>
+</svg>

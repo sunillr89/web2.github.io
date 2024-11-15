@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0 0 92 92">
+  <defs>
+    <filter id="Rectangle_27313" x="0" y="0" width="92" height="92" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#0c2464" flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Harsh_Breaking_Alert" data-name="Harsh Breaking Alert" transform="translate(-885 -3944)">
+    <g transform="matrix(1, 0, 0, 1, 885, 3944)" filter="url(#Rectangle_27313)">
+      <rect id="Rectangle_27313-2" data-name="Rectangle 27313" width="56" height="56" rx="6" transform="translate(18 18)" fill="#fff"/>
+    </g>
+    <g id="Group_78103" data-name="Group 78103" transform="translate(0 -2)">
+      <path id="Path_129207" data-name="Path 129207" d="M31.6,23.548v.6a2.679,2.679,0,0,1-2.683,2.681H2.683A2.682,2.682,0,0,1,0,24.146v-.6a4.474,4.474,0,0,1,3.577-4.38V12.221a12.221,12.221,0,0,1,24.443,0v6.946a4.469,4.469,0,0,1,3.577,4.38Zm-2.981,0a1.49,1.49,0,0,0-1.5-1.49,2.084,2.084,0,0,1-2.081-2.082V12.221a9.241,9.241,0,0,0-18.481,0v7.755a2.084,2.084,0,0,1-2.081,2.082,1.493,1.493,0,0,0-1.5,1.49v.3H28.615Z" transform="translate(924.12 3970.453) rotate(22)" fill="#ff6d24"/>
+      <path id="Path_129208" data-name="Path 129208" d="M0,0H2.981A2.683,2.683,0,0,0,5.663,2.683,2.683,2.683,0,0,0,8.346,0h2.981A5.663,5.663,0,0,1,5.663,5.663,5.663,5.663,0,0,1,0,0Z" transform="translate(923.131 3999.953) rotate(22)" fill="#1e5bfa"/>
+    </g>
+  </g>
+</svg>

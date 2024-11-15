@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="92" viewBox="0 0 92 92">
+  <defs>
+    <filter id="Rectangle_27310" x="0" y="0" width="92" height="92" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#0c2464" flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Live_Gps_Vehicle_Tracking" data-name="Live Gps Vehicle Tracking" transform="translate(-260 -3215)">
+    <g transform="matrix(1, 0, 0, 1, 260, 3215)" filter="url(#Rectangle_27310)">
+      <rect id="Rectangle_27310-2" data-name="Rectangle 27310" width="56" height="56" rx="6" transform="translate(18 18)" fill="#fff"/>
+    </g>
+    <g id="Group_78100" data-name="Group 78100" transform="translate(208.008 3213.181)">
+      <path id="Path_129194" data-name="Path 129194" d="M231.909,51.187a2.171,2.171,0,0,1-1.983-1.287h0l-6.233-14.025a2.171,2.171,0,0,1,2.953-2.823l5.264,2.632,5.263-2.632a2.171,2.171,0,0,1,2.953,2.822L233.892,49.9a2.169,2.169,0,0,1-1.982,1.288Zm.647-2.46v0A0,0,0,0,0,232.556,48.728Zm-5.429-12.216,4.783,10.762,4.783-10.762L231.909,38.9Z" transform="translate(-134.827 -3)" fill="#1e5bfa"/>
+      <path id="Path_129195" data-name="Path 129195" d="M114.369,53.324h-6.743a4.317,4.317,0,0,1-.328,2.422l-.5,1.122h7.116a1.334,1.334,0,0,1,.565.133L101.365,70.116l-4.418,4.418-7.419-7.419,1.7-1.7-1.279-2.878L80.788,71.7V58.215a1.346,1.346,0,0,1,1.345-1.346h5.288l-.5-1.122a4.323,4.323,0,0,1-.328-2.422H81.668A3.681,3.681,0,0,0,77.992,57V80.732a3.681,3.681,0,0,0,3.676,3.676h32.693a3.681,3.681,0,0,0,3.676-3.676V57a3.68,3.68,0,0,0-3.669-3.676ZM82.134,81.71a1.346,1.346,0,0,1-1.345-1.346V75.856l6.661-6.662,1.568,1.567,5.759,5.76-5.19,5.19ZM96.855,78.6l3.112,3.113H93.742Zm18.387,1.767a1.347,1.347,0,0,1-1.346,1.346h-9.772l-5.1-5.1,2.285-2.286,1.44-1.44,2.208-2.209,3.112-3.113,3.113,3.113,4.059,4.059v5.627Zm0-9.783-5.092-5.092,5.092-5.094Z" transform="translate(0 -19.194)" fill="#ff6d24"/>
+    </g>
+  </g>
+</svg>
